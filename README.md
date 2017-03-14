@@ -1,11 +1,11 @@
-# docker-tshark
+## docker-tshark
 tshark for docker: inspect and dump pcap files inside containers
 
-## Usage
+# Usage
 1. docker run --net=host --privileged mercuriete/tshark
 2. go to kitematic and enable volumes
 3. open dump.pcap file in wireshark (double click if using windows)
 
 
-##License
+# License
 gpl v3
